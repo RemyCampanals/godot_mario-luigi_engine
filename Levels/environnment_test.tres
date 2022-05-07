@@ -1,0 +1,14 @@
+[gd_resource type="Environment" format=2]
+
+[resource]
+ambient_light_color = Color( 1, 1, 1, 1 )
+ambient_light_sky_contribution = 0.0
+ssao_enabled = true
+ssao_radius = 0.5
+ssao_quality = 2
+dof_blur_far_enabled = true
+dof_blur_far_distance = 8.0
+dof_blur_far_quality = 2
+dof_blur_near_enabled = true
+dof_blur_near_distance = 10.0
+dof_blur_near_quality = 2
